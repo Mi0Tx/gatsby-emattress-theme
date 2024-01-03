@@ -71,7 +71,7 @@ const Footer = (prop) => {
               <div className={styles.newsLetterContent}>
                 <span className={styles.linkTitle}>Newsletter</span>
                 <p className={styles.promoMessage}>
-                  Get financing options available through Own.lease! Plus, be the first to know
+                  Be the first to know
                   about sales, new product launches and exclusive offers!
                 </p>
                 <form
