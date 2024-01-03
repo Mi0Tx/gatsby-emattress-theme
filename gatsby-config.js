@@ -7,7 +7,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `eMattressoutlet.com`,
+        name: `eMattressOutlet.com`,
         short_name: `eMattress`,
         start_url: `/`,
         background_color: `#000000`,
