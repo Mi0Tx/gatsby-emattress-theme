@@ -182,7 +182,7 @@
 
 @media (hover: hover) {
     .socialIconContainer:hover {
-        background-color: var(--standard-dark-grey)
+        background-color: var(--standard-blue)
     }
 }
 
